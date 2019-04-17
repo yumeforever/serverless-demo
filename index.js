@@ -10,7 +10,7 @@ module.exports = async function (context, req) {
     else {
         context.res = {
             status: 400,
-            body: "Please lalalalla a name on the query string or in the request body"
+            body: "Please sjhashdkjhask a name on the query string or in the request body"
         };
     }
 };
